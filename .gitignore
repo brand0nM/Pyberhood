@@ -5,6 +5,7 @@ __pycache__/
 
 .DS_store
 config.py
+inputs.py
 
 # C extensions
 *.so
