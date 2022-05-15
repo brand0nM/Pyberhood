@@ -22,15 +22,15 @@ The data is skewed by volatile stocks, so remove any outliers.<br />
 
 ### Highest Price vs Performance with Color Volatility
 <img width="1252" alt="Screen Shot 2022-05-15 at 12 23 51 PM" src="https://user-images.githubusercontent.com/79609464/168488051-f04f7c11-5a24-4b90-890a-f170cedd1762.png">
-- The more expense the stock price, the less volatile it's performance
--- Exceptions could be attributed to negative publicity caused many to sell.
-- The last week weighted average is slowly increasing in a volatile manner.
+-The more expense the stock price, the less volatile it's performance
+--Exceptions could be attributed to negative publicity caused many to sell.
+-The last week weighted average is slowly increasing in a volatile manner.
 
 ### Challenges and Difficulties Encountered
-
+Since we were using the free version on polygon's stock api, gathering data took around a day; a few times my computer was acidentally unplugged and I lost all progress. Another difficulty was accurately interpreting the results without also catogrizing each stock into its sector. To further improve this project we could scrape sector data, or find another API to populate. Then I we could vizualization each sector and modifiying our existing graph to color by sector and size by volatility. Having this data would allow for a more thorough analysis of how the stock market is actually performing.
 
 ## Results
-
+One can enable magic commands in the vizualization notebook to view specific points of interest; From the volatility csv we can filter based on desired paramaters to choose investments. Additionally the smallest winner's and looser's csv can be viewed to find investments; once selected cross refencencing the volatility csv would help determine if the investment makes sense.
 
 ## Summary
-
+We've successfully created a weekly stock screener to vizualize NASDAQ's performance as a whole and find stable investments. 
