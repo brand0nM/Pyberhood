@@ -23,7 +23,8 @@ The data is skewed by volatile stocks, so remove any outliers.<br />
 <img width="841" alt="Screen Shot 2022-05-15 at 11 49 30 AM" src="https://user-images.githubusercontent.com/79609464/168486801-46a11e46-8dab-4727-a825-647a35d01419.png"><br />
 
 Finally, graph the week's highest price vs its performance and use color to vizualize the volatility<br />
-<img width="426" alt="Screen Shot 2022-05-15 at 11 29 16 AM" src="https://user-images.githubusercontent.com/79609464/168486110-37af4ccd-f66b-45ba-b499-229ae2f8d06e.png"><br />
+<img width="1252" alt="Screen Shot 2022-05-15 at 12 23 51 PM" src="https://user-images.githubusercontent.com/79609464/168488051-f04f7c11-5a24-4b90-890a-f170cedd1762.png">
+
 
 ### Challenges and Difficulties Encountered
 
