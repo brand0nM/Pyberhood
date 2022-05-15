@@ -24,7 +24,7 @@ The data is skewed by volatile stocks, so remove any outliers.<br />
 <img width="1252" alt="Screen Shot 2022-05-15 at 12 23 51 PM" src="https://user-images.githubusercontent.com/79609464/168488051-f04f7c11-5a24-4b90-890a-f170cedd1762.png">
 
 * The more expense the stock price, the less volatile its performance
-** Exceptions could be attributed to negative publicity that caused many to sell
+* * Exceptions could be attributed to negative publicity that caused many to sell
 * The last week's weighted average is slowly increasing in a volatile manner
 
 ### Challenges and Difficulties Encountered
