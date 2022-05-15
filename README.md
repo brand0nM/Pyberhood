@@ -12,7 +12,7 @@ First, create a field to input what kinds of data to gather and from where. Whil
 Then, store retieved data in a new data frame (some stocks aren't traded on everyday), hence they won't have a five element list. <br />
 <img width="1028" alt="Screen Shot 2022-05-15 at 11 44 53 AM" src="https://user-images.githubusercontent.com/79609464/168486623-521ff851-69d7-4572-affa-d20f06a1a7cf.png"> <br />
 
-After clean the results, store them in 3 seprate dataframes, and sort by the week's performance. <br />
+After clean the results, store them in 3 separate dataframes, and sort by the week's performance. <br />
 <img width="1329" alt="Screen Shot 2022-05-15 at 11 48 21 AM" src="https://user-images.githubusercontent.com/79609464/168486730-cdcd147d-51bf-4100-9b40-c7f4974f8181.png"><br />
 
 ### Centering the Data
