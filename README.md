@@ -24,8 +24,8 @@ The data is skewed by volatile stocks, so remove any outliers.<br />
 <img width="1252" alt="Screen Shot 2022-05-15 at 12 23 51 PM" src="https://user-images.githubusercontent.com/79609464/168488051-f04f7c11-5a24-4b90-890a-f170cedd1762.png">
 
 * The more expense the stock price, the less volatile its performance
-  * Exceptions could be attributed to negative publicity that caused many to sell
-* The last week's weighted average is slowly increasing in a volatile manner
+  * Exceptions could be attributed to negative publicity that caused many to buy or sell
+* Last week's weighted average is slowly increasing in a stable manner
 
 ### Challenges and Difficulties Encountered
 Since we were using the free version on polygon's stock API, gathering data took around a day; a few times my computer was accidentally unplugged and I lost all progress. Another difficulty was accurately interpreting the results without also categorizing each stock into its sector. To further improve this project we could scrape sector data, or find another API to populate. Then we could visualize each sector and modify our existing graph to color by sector and size by volatility. Having this data would allow for a more thorough analysis of how the stock market is actually performing.
